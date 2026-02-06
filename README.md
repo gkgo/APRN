@@ -4,7 +4,6 @@
 
 This repository contains the (upcoming) official implementation of **APRN**, a method for Few-Shot Semantic Segmentation.
 
-Once the code is fully released, this repository will include:
 
 
 ## 🔧 Requirements

@@ -2,7 +2,7 @@
 
 > 🚧 **Note:** The detailed training and inference code is currently being organized and will be released soon.
 
-This repository contains the (upcoming) official implementation of **APRN**, a method for **unsupervised / weakly-supervised semantic segmentation** based on saliency-aware pixel relation learning. APRN aims to improve representation learning by modeling adaptive pixel relationships and leveraging saliency cues to enhance object-aware segmentation, especially in data-scarce or annotation-limited scenarios.
+This repository contains the (upcoming) official implementation of **APRN**, a method for Few-Shot Semantic Segmentation.
 
 Once the code is fully released, this repository will include:
 
@@ -64,13 +64,7 @@ cd data/data_preprocess
 python coco.py train2014
 python coco.py val2014
 ```
-
-3. Download pre-computed saliency maps from:
-   [https://drive.google.com/file/d/1VMH51A4OVGXg-0mQsE60dsKZ4sxy66bX/view](https://drive.google.com/file/d/1VMH51A4OVGXg-0mQsE60dsKZ4sxy66bX/view)
-
-The saliency maps are generated using **[BASNet](https://github.com/xuebinqin/BASNet)**. We directly used the pre-trained BASNet model to infer saliency maps on the COCO dataset.
-
-4. Ensure the directory structure:
+3. Ensure the directory structure:
 
 ```shell
 coco

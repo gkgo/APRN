@@ -1,4 +1,4 @@
-# APRN (Official Implementation)
+# APRN 
 
 > 🚧 **Note:** The detailed training and inference code is currently being organized and will be released soon.
 
@@ -6,12 +6,6 @@ This repository contains the (upcoming) official implementation of **APRN**, a m
 
 Once the code is fully released, this repository will include:
 
-* Model architecture of APRN
-* Training and evaluation scripts
-* Pre-trained models
-* Reproducible experiment pipelines on PASCAL VOC and COCO
-
----
 
 ## 🔧 Requirements
 
@@ -77,20 +71,6 @@ coco
 └── train2014.txt
 ```
 
----
-
-## 🚀 Coming Soon
-
-We are currently organizing the codebase. In the next update, we will release:
-
-* ✅ APRN model implementation
-* ✅ Training scripts
-* ✅ Evaluation and visualization tools
-* ✅ Pre-trained checkpoints
-
-Stay tuned! ⭐
-
----
 
 ## 📬 Contact
 

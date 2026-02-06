@@ -96,10 +96,4 @@ Stay tuned! ⭐
 
 If you have any questions before the full release, feel free to open an issue or contact the repository maintainer.
 
----
 
-If you’d like, I can also help you:
-
-* add a **BibTeX citation section**,
-* make this README more “paper-style” (for a conference repo), or
-* adapt it to a **cleaner minimal template** for GitHub.
